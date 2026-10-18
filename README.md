@@ -18,13 +18,7 @@ price and 24-hour change of a crypto pair on a touch button, using the
 
 **CoinGecko → Price** (`CoinGecko.Price`) is a touch-button display:
 
-```
-┌──────────────┐
-│   BTC/JPY    │  label (or the pair)
-│ ¥12,855,102  │  current price
-│    -0.21%    │  24h change: green when up, red when down
-└──────────────┘
-```
+<img width="71" height="73" alt="{B6424BB1-99BF-4CB4-A286-4B030F3C53FA}" src="https://github.com/user-attachments/assets/c08958c0-77d5-4970-99d1-4af2b7fe83a3" />
 
 The label and the price are ordinary text layers: select them in the button
 editor's **Properties** to change their font, size, colour or position, like
