@@ -1,7 +1,7 @@
 {
   "id": "coingecko",
   "name": "CoinGecko Price",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "sdkVersion": "1.30.0",
   "entryAssembly": "LoupixDeck.Plugin.CoinGecko.dll",
   "platform": "All",

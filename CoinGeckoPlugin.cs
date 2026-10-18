@@ -15,7 +15,7 @@ public sealed class CoinGeckoPlugin : LoupixPlugin, IPluginSettingsPage
     {
         Id = "coingecko",
         Name = "CoinGecko Price",
-        Version = new Version(1, 0, 0),
+        Version = new Version(1, 0, 1),
         SdkVersion = SdkInfo.Version,
         Author = "VisionsMirage",
         Icon = LoadEmbeddedIcon("CoinGecko.icon.png"),
