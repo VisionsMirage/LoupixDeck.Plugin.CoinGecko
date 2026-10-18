@@ -1,0 +1,11 @@
+{
+  "id": "coingecko",
+  "name": "CoinGecko Price",
+  "version": "1.0.0",
+  "sdkVersion": "1.30.0",
+  "entryAssembly": "LoupixDeck.Plugin.CoinGecko.dll",
+  "platform": "All",
+  "author": "VisionsMirage",
+  "iconFile": "icon.png",
+  "description": "Show crypto prices and 24h change from CoinGecko on touch buttons.\n\n--\n\nCoinGecko の暗号資産の価格と 24 時間変動率をタッチボタンに表示します。"
+}
