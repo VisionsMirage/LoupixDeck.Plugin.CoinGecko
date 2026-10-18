@@ -101,13 +101,8 @@ This plugin is not affiliated with CoinGecko.
 
 **CoinGecko → Price**（`CoinGecko.Price`）はタッチボタン用の表示コマンドです。
 
-```
-┌──────────────┐
-│   BTC/JPY    │  ラベル（未設定なら通貨ペア名）
-│ ¥12,855,102  │  現在の価格
-│    -0.21%    │  24 時間変動率（プラスは緑、マイナスは赤）
-└──────────────┘
-```
+<img width="71" height="73" alt="{B6424BB1-99BF-4CB4-A286-4B030F3C53FA}" src="https://github.com/user-attachments/assets/764e7ed6-43dc-469f-927c-b9912b18d740" />
+
 
 ラベルと価格は普通のテキストレイヤーです。ボタンエディターの **Properties** で選ぶと、
 ほかのテキストと同じようにフォント・サイズ・色・位置を変更できます。
